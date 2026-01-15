@@ -1,0 +1,47 @@
+# Data (too large for GitHub)
+images/
+data/xlsx/
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Private/Internal documents
+revision_ePASS/
+submission_ePASS/
+references paper/
+[REF]*
+tmp*
+*.docx
+*.pptx
+
+# Large model files (use Git LFS instead)
+# *.pb
+
+# Logs
+*.log
+logs/

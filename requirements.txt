@@ -1,0 +1,29 @@
+# ePASS Dependencies
+# Python 3.12+ recommended
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision & Super-Resolution
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+
+# Data Processing
+numpy>=1.21.0
+pandas>=1.3.0
+openpyxl>=3.0.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Utilities
+Pillow>=8.0.0
+tqdm>=4.60.0
+
+# Note: For CUDA-accelerated EDSR, install OpenCV with CUDA support
+# pip install opencv-python is CPU-only
+# For GPU support, build OpenCV from source with CUDA enabled
