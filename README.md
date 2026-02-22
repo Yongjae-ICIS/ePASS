@@ -11,7 +11,9 @@ Official implementation of **"Lightweight Physical-Layer Authentication via IQ S
 >
 > † These authors contributed equally to this work.
 >
-> **Submitted in:** IEEE Communications Letters
+> **Accepted for publication in:** IEEE Communications Letters
+>
+> **DOI:** [TBD](https://doi.org/TBD)
 
 ---
 
@@ -222,6 +224,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or issues, please open an issue or contact:
-- Taehoon Kim: thkim@hanbat.ac.kr
-- Inkyu Bang: ikbang@hanbat.ac.kr
+For questions or collaboration inquiries, please open an [issue](https://github.com/Yongjae-ICIS/ePASS/issues) or contact the corresponding author listed in the paper.
