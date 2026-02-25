@@ -1,6 +1,6 @@
 # ePASS: Enhanced Physical-layer Authentication with Super-resolution for Satellites
 
-[![Paper](https://img.shields.io/badge/Paper-IEEE%20Communications%20Letters-blue)](https://ieeexplore.ieee.org/)
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20Communications%20Letters-blue)](https://ieeexplore.ieee.org/document/11370696)
 [![Python](https://img.shields.io/badge/Python-3.12-green.svg)](https://www.python.org/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2025a-orange.svg)](https://www.mathworks.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -11,9 +11,9 @@ Official implementation of **"Lightweight Physical-Layer Authentication via IQ S
 >
 > † These authors contributed equally to this work.
 >
-> **Accepted for publication in:** IEEE Communications Letters
+> **Published in:** IEEE Communications Letters (Early Access, Feb. 2026)
 >
-> **DOI:** [TBD](https://doi.org/TBD)
+> **DOI:** [10.1109/LCOMM.2026.3659912](https://doi.org/10.1109/LCOMM.2026.3659912)
 
 ---
 
@@ -203,7 +203,16 @@ This work uses the publicly available **Iridium satellite IQ sample dataset**:
 
 ## Citation
 
-*Citation information will be added upon publication.*
+```bibtex
+@article{dogbey2026epass,
+  author    = {Dogbey, Ivy Selorm and Lee, Yongjae and Moon, Jihwan and Kim, Taehoon and Bang, Inkyu},
+  title     = {Lightweight Physical-Layer Authentication via IQ Sample Super-Resolution in LEO Satellite Networks},
+  journal   = {IEEE Communications Letters},
+  year      = {2026},
+  doi       = {10.1109/LCOMM.2026.3659912},
+  note      = {Early Access}
+}
+```
 
 ---
 
